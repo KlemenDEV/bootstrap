@@ -29,8 +29,8 @@ repo:             https://github.com/entreprise7pro/bootstrap
 sass_repo:        https://github.com/twbs/bootstrap-sass
 
 download:
-  source:         https://github.com/entreprise7pro/bootstrap/archive/v3-dev-3.zip
-  dist:           https://github.com/entreprise7pro/bootstrap/archive/refs/tags/v3-dev-3.zip
+  source:         https://github.com/entreprise7pro/bootstrap/archive/v3.4.2.zip
+  dist:           https://github.com/entreprise7pro/bootstrap/archive/refs/tags/v3.4.2.zip
   sass:           https://github.com/twbs/bootstrap-sass/archive/refs/tags/v3.4.1.tar.gz
 
 blog:             https://blog.getbootstrap.com
@@ -39,9 +39,9 @@ themes:           https://themes.getbootstrap.com
 
 cdn:
   # See https://www.srihash.org for info on how to generate the hashes
-  css:            https://cdn.jsdelivr.net/gh/entreprise7pro/bootstrap@v3-dev-2/dist/css/bootstrap.min.css
+  css:            https://cdn.jsdelivr.net/gh/entreprise7pro/bootstrap@v3.4.2/dist/css/bootstrap.min.css
   css_hash:       "sha384-9nFRBeRwI4q8y+NyhfS1P8D8vrfocola09o+8bDiGAG/4Nxy2nik+JxFLn1ar/Uq"
-  css_theme:      https://cdn.jsdelivr.net/gh/entreprise7pro/bootstrap@v3-dev-2/dist/css/bootstrap-theme.min.css
+  css_theme:      https://cdn.jsdelivr.net/gh/entreprise7pro/bootstrap@v3.4.2/dist/css/bootstrap-theme.min.css
   css_theme_hash: "sha384-+deWa+Ch77YJ7Iq1ceYpndDQNxt0UfdyJ/0Y9revpNJ1SWJT1uNLb0NBgTtQof2U"
-  js:             https://cdn.jsdelivr.net/gh/entreprise7pro/bootstrap@v3-dev-2/dist/js/bootstrap.min.js
-  js_hash:        "sha384-69neixD8cS9d0n7Hli1COsEJcuqkVpeTa1F836pkBk3Jon7Ls4lDMbyN3fyYCxtc"
+  js:             https://cdn.jsdelivr.net/gh/entreprise7pro/bootstrap@v3.4.2/dist/js/bootstrap.min.js
+  js_hash:        "sha384-N///XIeGgP49UUneI4SYt33F/MBBaF+X3iL9E7J+kesbD18E90ZGdwestvEp1bvG"

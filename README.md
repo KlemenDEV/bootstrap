@@ -28,7 +28,7 @@ To get started, check out <https://getbootstrap.com/>!
 
 Several quick start options are available:
 
-* [Download the latest release](https://github.com/entreprise7pro/bootstrap/archive/refs/tags/v3.4.2.zip).
+* [Download the latest release](https://github.com/entreprise7pro/bootstrap/archive/refs/tags/v3.4.3.zip).
 * Clone the repo: `git clone https://github.com/entreprise7pro/bootstrap.git`.
 * Consume the CDNs https://bootstrap.7pro.ca
 * Install with [Meteor](https://www.meteor.com/): `meteor add entreprise7pro:bootstrap`. TBD

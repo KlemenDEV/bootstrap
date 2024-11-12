@@ -121,7 +121,7 @@ module.exports = function (grunt) {
           'js/tab.js',
           'js/affix.js'
         ],
-        dest: 'dist/js/<%= pkg.name %>.js'
+        dest: 'dist/js/bootstrap.js'
       }
     },
 
@@ -136,7 +136,7 @@ module.exports = function (grunt) {
       },
       core: {
         src: '<%= concat.core.dest %>',
-        dest: 'dist/js/<%= pkg.name %>.min.js'
+        dest: 'dist/js/bootstrap.min.js'
       },
       customize: {
         src: configBridge.paths.customizerJs,
@@ -157,19 +157,19 @@ module.exports = function (grunt) {
       },
       core: {
         options: {
-          sourceMapURL: '<%= pkg.name %>.css.map',
-          sourceMapFilename: 'dist/css/<%= pkg.name %>.css.map'
+          sourceMapURL: 'bootstrap.css.map',
+          sourceMapFilename: 'dist/css/bootstrap.css.map'
         },
         src: 'less/bootstrap.less',
-        dest: 'dist/css/<%= pkg.name %>.css'
+        dest: 'dist/css/bootstrap.css'
       },
       theme: {
         options: {
-          sourceMapURL: '<%= pkg.name %>-theme.css.map',
-          sourceMapFilename: 'dist/css/<%= pkg.name %>-theme.css.map'
+          sourceMapURL: 'bootstrap-theme.css.map',
+          sourceMapFilename: 'dist/css/bootstrap-theme.css.map'
         },
         src: 'less/theme.less',
-        dest: 'dist/css/<%= pkg.name %>-theme.css'
+        dest: 'dist/css/bootstrap-theme.css'
       },
       docs: {
         options: {
@@ -189,10 +189,10 @@ module.exports = function (grunt) {
         }
       },
       core: {
-        src: 'dist/css/<%= pkg.name %>.css'
+        src: 'dist/css/bootstrap.css'
       },
       theme: {
-        src: 'dist/css/<%= pkg.name %>-theme.css'
+        src: 'dist/css/bootstrap-theme.css'
       },
       docs: {
         src: 'docs/assets/css/docs.css'
@@ -235,12 +235,12 @@ module.exports = function (grunt) {
         }
       },
       core: {
-        src: 'dist/css/<%= pkg.name %>.css',
-        dest: 'dist/css/<%= pkg.name %>.min.css'
+        src: 'dist/css/bootstrap.css',
+        dest: 'dist/css/bootstrap.min.css'
       },
       theme: {
-        src: 'dist/css/<%= pkg.name %>-theme.css',
-        dest: 'dist/css/<%= pkg.name %>-theme.min.css'
+        src: 'dist/css/bootstrap-theme.css',
+        dest: 'dist/css/bootstrap-theme.min.css'
       },
       docs: {
         src: 'docs/assets/css/docs.css',

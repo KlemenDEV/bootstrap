@@ -1,6 +1,7 @@
 /*!
  * Bootstrap's Gruntfile
  * https://getbootstrap.com/
+ * Copyright 2024 Entreprise 7pro.ca Inc.
  * Copyright 2013-2019 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/v3-dev/LICENSE)
  */

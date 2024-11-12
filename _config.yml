@@ -23,15 +23,15 @@ plugins:
 # Custom vars
 title:            Bootstrap
 description:      "The world's most popular mobile-first and responsive front-end framework."
-current_version:  3.4.2
+current_version:  3.4.3
 docs_version:     3.4
 repo:             https://github.com/entreprise7pro/bootstrap
-sass_repo:        https://github.com/twbs/bootstrap-sass
+sass_repo:        https://github.com/entreprise7pro/bootstrap-sass
 
 download:
-  source:         https://github.com/entreprise7pro/bootstrap/archive/v3.4.2.zip
-  dist:           https://github.com/entreprise7pro/bootstrap/archive/refs/tags/v3.4.2.zip
-  sass:           https://github.com/twbs/bootstrap-sass/archive/refs/tags/v3.4.1.tar.gz
+  source:         https://github.com/entreprise7pro/bootstrap/archive/v3.4.3.zip
+  dist:           https://github.com/entreprise7pro/bootstrap/archive/refs/tags/v3.4.3.zip
+  sass:           https://github.com/entreprise7pro/bootstrap-sass/archive/refs/tags/v3.4.3.tar.gz
 
 blog:             https://blog.getbootstrap.com
 expo:             https://expo.getbootstrap.com
@@ -39,9 +39,9 @@ themes:           https://themes.getbootstrap.com
 
 cdn:
   # See https://www.srihash.org for info on how to generate the hashes
-  css:            https://cdn.jsdelivr.net/gh/entreprise7pro/bootstrap@v3.4.2/dist/css/bootstrap.min.css
-  css_hash:       "sha384-9nFRBeRwI4q8y+NyhfS1P8D8vrfocola09o+8bDiGAG/4Nxy2nik+JxFLn1ar/Uq"
-  css_theme:      https://cdn.jsdelivr.net/gh/entreprise7pro/bootstrap@v3.4.2/dist/css/bootstrap-theme.min.css
-  css_theme_hash: "sha384-+deWa+Ch77YJ7Iq1ceYpndDQNxt0UfdyJ/0Y9revpNJ1SWJT1uNLb0NBgTtQof2U"
-  js:             https://cdn.jsdelivr.net/gh/entreprise7pro/bootstrap@v3.4.2/dist/js/bootstrap.min.js
-  js_hash:        "sha384-N///XIeGgP49UUneI4SYt33F/MBBaF+X3iL9E7J+kesbD18E90ZGdwestvEp1bvG"
+  css:            https://cdn.jsdelivr.net/gh/entreprise7pro/bootstrap@v3.4.3/dist/css/bootstrap.min.css
+  css_hash:       "sha384-25c0c62336ac1d27b4737ef5cfc48b82a3493f43d868a94990f9b7a2a77f8bf6ce27c4f5b072726cf90dc883b083f977"
+  css_theme:      https://cdn.jsdelivr.net/gh/entreprise7pro/bootstrap@v3.4.3/dist/css/bootstrap-theme.min.css
+  css_theme_hash: "sha384-c56277aaff4b5ea3c86d25207efde310ad2063399a54e7c8ada1cf9f7510ddc2a868692ab217b3f2b1d645f4b5f53200"
+  js:             https://cdn.jsdelivr.net/gh/entreprise7pro/bootstrap@v3.4.3/dist/js/bootstrap.min.js
+  js_hash:        "sha384-37ffff5c878680fe3d5149de238498b77dc5fcc041685f97de22fd13b27e91eb1b0f5f04f746467707acb6f129d5bbc6"

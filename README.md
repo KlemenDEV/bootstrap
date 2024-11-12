@@ -118,6 +118,11 @@ For transparency into our release cycle and in striving to maintain backward com
 
 See [the Releases section of our GitHub project](https://github.com/entreprise7pro/bootstrap/releases) for changelogs for each release version of Bootstrap.
 
+## Compiling
+
+* sudo apt install nodejs npm
+* sudo apt install node-grunt-cli
+* bundle exec grunt --force
 
 ## Thanks
 
@@ -125,6 +130,11 @@ See [the Releases section of our GitHub project](https://github.com/entreprise7p
 
 Thanks to [BrowserStack](https://www.browserstack.com/) for providing the infrastructure that allows us to test in real browsers!
 
+## Current maintainer
+
+**Joseph Olstad**
+
+* <https://drupal.org/u/josepholstad>
 
 ## Creators
 

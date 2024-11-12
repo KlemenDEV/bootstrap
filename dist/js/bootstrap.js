@@ -21,7 +21,7 @@ if (typeof jQuery === 'undefined') {
 }(jQuery);
 
 /* ========================================================================
- * Bootstrap: transition.js v3.4.2
+ * Bootstrap: transition.js v3.4.3
  * https://bootstrap.7pro.ca/docs/3.4/javascript/#transitions
  * ========================================================================
  * Copyright 2011-2019 Twitter, Inc.
@@ -81,7 +81,7 @@ if (typeof jQuery === 'undefined') {
 }(jQuery);
 
 /* ========================================================================
- * Bootstrap: alert.js v3.4.2
+ * Bootstrap: alert.js v3.4.3
  * https://bootstrap.7pro.ca/docs/3.4/javascript/#alerts
  * ========================================================================
  * Copyright 2011-2019 Twitter, Inc.
@@ -100,7 +100,7 @@ if (typeof jQuery === 'undefined') {
     $(el).on('click', dismiss, this.close)
   }
 
-  Alert.VERSION = '3.4.1'
+  Alert.VERSION = '3.4.3'
 
   Alert.TRANSITION_DURATION = 150
 
@@ -177,7 +177,7 @@ if (typeof jQuery === 'undefined') {
 }(jQuery);
 
 /* ========================================================================
- * Bootstrap: button.js v3.4.2
+ * Bootstrap: button.js v3.4.3
  * https://bootstrap.7pro.ca/docs/3.4/javascript/#buttons
  * ========================================================================
  * Copyright 2011-2019 Twitter, Inc.
@@ -197,7 +197,7 @@ if (typeof jQuery === 'undefined') {
     this.isLoading = false
   }
 
-  Button.VERSION  = '3.4.2'
+  Button.VERSION  = '3.4.3'
 
   Button.DEFAULTS = {
     loadingText: 'loading...'
@@ -312,7 +312,7 @@ if (typeof jQuery === 'undefined') {
 }(jQuery);
 
 /* ========================================================================
- * Bootstrap: carousel.js v3.4.2
+ * Bootstrap: carousel.js v3.4.3
  * https://bootstrap.7pro.ca/docs/3.4/javascript/#carousel
  * ========================================================================
  * Copyright 2011-2019 Twitter, Inc.
@@ -343,7 +343,7 @@ if (typeof jQuery === 'undefined') {
       .on('mouseleave.bs.carousel', $.proxy(this.cycle, this))
   }
 
-  Carousel.VERSION  = '3.4.2'
+  Carousel.VERSION  = '3.4.3'
 
   Carousel.TRANSITION_DURATION = 600
 
@@ -559,7 +559,7 @@ if (typeof jQuery === 'undefined') {
 }(jQuery);
 
 /* ========================================================================
- * Bootstrap: collapse.js v3.4.2
+ * Bootstrap: collapse.js v3.4.3
  * https://bootstrap.7pro.ca/docs/3.4/javascript/#collapse
  * ========================================================================
  * Copyright 2024 Entreprise 7pro.ca Inc.
@@ -591,7 +591,7 @@ if (typeof jQuery === 'undefined') {
     if (this.options.toggle) this.toggle()
   }
 
-  Collapse.VERSION  = '3.4.2'
+  Collapse.VERSION  = '3.4.3'
 
   Collapse.TRANSITION_DURATION = 350
 
@@ -773,7 +773,7 @@ if (typeof jQuery === 'undefined') {
 }(jQuery);
 
 /* ========================================================================
- * Bootstrap: dropdown.js v3.4.2
+ * Bootstrap: dropdown.js v3.4.3
  * https://bootstrap.7pro.ca/docs/3.4/javascript/#dropdowns
  * ========================================================================
  * Copyright 2024 Entreprise 7pro.ca Inc.
@@ -794,7 +794,7 @@ if (typeof jQuery === 'undefined') {
     $(element).on('click.bs.dropdown', this.toggle)
   }
 
-  Dropdown.VERSION = '3.4.2'
+  Dropdown.VERSION = '3.4.3'
 
   function getParent($this) {
     var selector = $this.attr('data-target')
@@ -940,7 +940,7 @@ if (typeof jQuery === 'undefined') {
 }(jQuery);
 
 /* ========================================================================
- * Bootstrap: modal.js v3.4.2
+ * Bootstrap: modal.js v3.4.3
  * https://bootstrap.7pro.ca/docs/3.4/javascript/#modals
  * ========================================================================
  * Copyright 2011-2019 Twitter, Inc.
@@ -975,7 +975,7 @@ if (typeof jQuery === 'undefined') {
     }
   }
 
-  Modal.VERSION = '3.4.1'
+  Modal.VERSION = '3.4.3'
 
   Modal.TRANSITION_DURATION = 300
   Modal.BACKDROP_TRANSITION_DURATION = 150
@@ -1295,7 +1295,7 @@ if (typeof jQuery === 'undefined') {
 }(jQuery);
 
 /* ========================================================================
- * Bootstrap: tooltip.js v3.4.2
+ * Bootstrap: tooltip.js v3.4.3
  * https://bootstrap.7pro.ca/docs/3.4/javascript/#tooltip
  * Inspired by the original jQuery.tipsy by Jason Frame
  * ========================================================================
@@ -1447,7 +1447,7 @@ if (typeof jQuery === 'undefined') {
     this.init('tooltip', element, options)
   }
 
-  Tooltip.VERSION  = '3.4.2'
+  Tooltip.VERSION  = '3.4.3'
 
   Tooltip.TRANSITION_DURATION = 150
 
@@ -1973,7 +1973,7 @@ if (typeof jQuery === 'undefined') {
 }(jQuery);
 
 /* ========================================================================
- * Bootstrap: popover.js v3.4.2
+ * Bootstrap: popover.js v3.4.3
  * https://bootstrap.7pro.ca/docs/3.4/javascript/#popovers
  * ========================================================================
  * Copyright 2011-2019 Twitter, Inc.
@@ -1993,7 +1993,7 @@ if (typeof jQuery === 'undefined') {
 
   if (!$.fn.tooltip) throw new Error('Popover requires tooltip.js')
 
-  Popover.VERSION  = '3.4.2'
+  Popover.VERSION  = '3.4.3'
 
   Popover.DEFAULTS = $.extend({}, $.fn.tooltip.Constructor.DEFAULTS, {
     placement: 'right',
@@ -2095,7 +2095,7 @@ if (typeof jQuery === 'undefined') {
 }(jQuery);
 
 /* ========================================================================
- * Bootstrap: scrollspy.js v3.4.2
+ * Bootstrap: scrollspy.js v3.4.3
  * https://bootstrap.7pro.ca/docs/3.4/javascript/#scrollspy
  * ========================================================================
  * Copyright 2011-2019 Twitter, Inc.
@@ -2124,7 +2124,7 @@ if (typeof jQuery === 'undefined') {
     this.process()
   }
 
-  ScrollSpy.VERSION  = '3.4.2'
+  ScrollSpy.VERSION  = '3.4.3'
 
   ScrollSpy.DEFAULTS = {
     offset: 10
@@ -2268,7 +2268,7 @@ if (typeof jQuery === 'undefined') {
 }(jQuery);
 
 /* ========================================================================
- * Bootstrap: tab.js v3.4.2
+ * Bootstrap: tab.js v3.4.3
  * https://bootstrap.7pro.ca/docs/3.4/javascript/#tabs
  * ========================================================================
  * Copyright 2011-2019 Twitter, Inc.
@@ -2288,7 +2288,7 @@ if (typeof jQuery === 'undefined') {
     // jscs:enable requireDollarBeforejQueryAssignment
   }
 
-  Tab.VERSION = '3.4.1'
+  Tab.VERSION = '3.4.3'
 
   Tab.TRANSITION_DURATION = 150
 
@@ -2424,7 +2424,7 @@ if (typeof jQuery === 'undefined') {
 }(jQuery);
 
 /* ========================================================================
- * Bootstrap: affix.js v3.4.2
+ * Bootstrap: affix.js v3.4.3
  * https://bootstrap.7pro.ca/docs/3.4/javascript/#affix
  * ========================================================================
  * Copyright 2011-2019 Twitter, Inc.
@@ -2455,7 +2455,7 @@ if (typeof jQuery === 'undefined') {
     this.checkPosition()
   }
 
-  Affix.VERSION  = '3.4.2'
+  Affix.VERSION  = '3.4.3'
 
   Affix.RESET    = 'affix affix-top affix-bottom'
 

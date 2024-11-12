@@ -16,6 +16,7 @@ module.exports = function (grunt) {
     return string.replace(/[-\\^$*+?.()|[\]{}]/g, '\\$&');
   };
 
+  var buildName = require('./package.json').buildName || require('./package.json').name;
   var fs = require('fs');
   var path = require('path');
   var generateGlyphiconsData = require('./grunt/bs-glyphicons-data-generator.js');
@@ -121,7 +122,7 @@ module.exports = function (grunt) {
           'js/tab.js',
           'js/affix.js'
         ],
-        dest: 'dist/js/bootstrap.js'
+        dest: 'dist/js/' + buildName + '.js'
       }
     },
 
@@ -136,7 +137,7 @@ module.exports = function (grunt) {
       },
       core: {
         src: '<%= concat.core.dest %>',
-        dest: 'dist/js/bootstrap.min.js'
+        dest: 'dist/js/' + buildName + '.min.js'
       },
       customize: {
         src: configBridge.paths.customizerJs,
@@ -157,19 +158,19 @@ module.exports = function (grunt) {
       },
       core: {
         options: {
-          sourceMapURL: 'bootstrap.css.map',
-          sourceMapFilename: 'dist/css/bootstrap.css.map'
+          sourceMapURL: buildName + '.css.map',
+          sourceMapFilename: 'dist/css/' + buildName + '.css.map'
         },
-        src: 'less/bootstrap.less',
-        dest: 'dist/css/bootstrap.css'
+        src: 'less/' + buildName + '.less',
+        dest: 'dist/css/' + buildName + '.css'
       },
       theme: {
         options: {
-          sourceMapURL: 'bootstrap-theme.css.map',
-          sourceMapFilename: 'dist/css/bootstrap-theme.css.map'
+          sourceMapURL: buildName + '-theme.css.map',
+          sourceMapFilename: 'dist/css/' + buildName + '-theme.css.map'
         },
         src: 'less/theme.less',
-        dest: 'dist/css/bootstrap-theme.css'
+        dest: 'dist/css/' + buildName + '-theme.css'
       },
       docs: {
         options: {
@@ -189,10 +190,10 @@ module.exports = function (grunt) {
         }
       },
       core: {
-        src: 'dist/css/bootstrap.css'
+        src: 'dist/css/' + buildName + '.css'
       },
       theme: {
-        src: 'dist/css/bootstrap-theme.css'
+        src: 'dist/css/' + buildName + '-theme.css'
       },
       docs: {
         src: 'docs/assets/css/docs.css'
@@ -235,12 +236,12 @@ module.exports = function (grunt) {
         }
       },
       core: {
-        src: 'dist/css/bootstrap.css',
-        dest: 'dist/css/bootstrap.min.css'
+        src: 'dist/css/' + buildName + '.css',
+        dest: 'dist/css/' + buildName + '.min.css'
       },
       theme: {
-        src: 'dist/css/bootstrap-theme.css',
-        dest: 'dist/css/bootstrap-theme.min.css'
+        src: 'dist/css/' + buildName + '-theme.css',
+        dest: 'dist/css/' + buildName + '-theme.min.css'
       },
       docs: {
         src: 'docs/assets/css/docs.css',

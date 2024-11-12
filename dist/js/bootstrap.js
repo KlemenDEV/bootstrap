@@ -24,6 +24,8 @@ if (typeof jQuery === 'undefined') {
  * Bootstrap: transition.js v3.4.3
  * https://bootstrap.7pro.ca/docs/3.4/javascript/#transitions
  * ========================================================================
+ * Copyright Entreprise7pro.ca Inc.
+ * Licensed under MIT (https://github.com/entreprise7pro/bootstrap/blob/v3-dev/LICENSE)
  * Copyright 2011-2019 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/v3-dev/LICENSE)
  * ======================================================================== */
@@ -84,6 +86,8 @@ if (typeof jQuery === 'undefined') {
  * Bootstrap: alert.js v3.4.3
  * https://bootstrap.7pro.ca/docs/3.4/javascript/#alerts
  * ========================================================================
+ * Copyright Entreprise7pro.ca Inc.
+ * Licensed under MIT (https://github.com/entreprise7pro/bootstrap/blob/v3-dev/LICENSE)
  * Copyright 2011-2019 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/v3-dev/LICENSE)
  * ======================================================================== */
@@ -180,6 +184,8 @@ if (typeof jQuery === 'undefined') {
  * Bootstrap: button.js v3.4.3
  * https://bootstrap.7pro.ca/docs/3.4/javascript/#buttons
  * ========================================================================
+ * Copyright Entreprise7pro.ca Inc.
+ * Licensed under MIT (https://github.com/entreprise7pro/bootstrap/blob/v3-dev/LICENSE)
  * Copyright 2011-2019 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/v3-dev/LICENSE)
  * ======================================================================== */
@@ -315,6 +321,8 @@ if (typeof jQuery === 'undefined') {
  * Bootstrap: carousel.js v3.4.3
  * https://bootstrap.7pro.ca/docs/3.4/javascript/#carousel
  * ========================================================================
+ * Copyright Entreprise7pro.ca Inc.
+ * Licensed under MIT (https://github.com/entreprise7pro/bootstrap/blob/v3-dev/LICENSE)
  * Copyright 2011-2019 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/v3-dev/LICENSE)
  * ======================================================================== */
@@ -777,6 +785,7 @@ if (typeof jQuery === 'undefined') {
  * https://bootstrap.7pro.ca/docs/3.4/javascript/#dropdowns
  * ========================================================================
  * Copyright 2024 Entreprise 7pro.ca Inc.
+ * Licensed under MIT (https://github.com/entreprise7pro/bootstrap/blob/v3-dev/LICENSE)
  * Copyright 2011-2019 Twitter, Inc (now X).
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/v3-dev/LICENSE)
  * ======================================================================== */
@@ -943,6 +952,8 @@ if (typeof jQuery === 'undefined') {
  * Bootstrap: modal.js v3.4.3
  * https://bootstrap.7pro.ca/docs/3.4/javascript/#modals
  * ========================================================================
+ * Copyright 2024 Entreprise 7pro.ca Inc.
+ * Licensed under MIT (https://github.com/entreprise7pro/bootstrap/blob/v3-dev/LICENSE)
  * Copyright 2011-2019 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/v3-dev/LICENSE)
  * ======================================================================== */
@@ -1299,6 +1310,8 @@ if (typeof jQuery === 'undefined') {
  * https://bootstrap.7pro.ca/docs/3.4/javascript/#tooltip
  * Inspired by the original jQuery.tipsy by Jason Frame
  * ========================================================================
+ * Copyright 2024 Entreprise 7pro.ca Inc.
+ * Licensed under MIT (https://github.com/entreprise7pro/bootstrap/blob/v3-dev/LICENSE)
  * Copyright 2011-2019 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/v3-dev/LICENSE)
  * ======================================================================== */
@@ -1976,6 +1989,8 @@ if (typeof jQuery === 'undefined') {
  * Bootstrap: popover.js v3.4.3
  * https://bootstrap.7pro.ca/docs/3.4/javascript/#popovers
  * ========================================================================
+ * Copyright 2024 Entreprise 7pro.ca Inc.
+ * Licensed under MIT (https://github.com/entreprise7pro/bootstrap/blob/v3-dev/LICENSE)
  * Copyright 2011-2019 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/v3-dev/LICENSE)
  * ======================================================================== */
@@ -2098,6 +2113,8 @@ if (typeof jQuery === 'undefined') {
  * Bootstrap: scrollspy.js v3.4.3
  * https://bootstrap.7pro.ca/docs/3.4/javascript/#scrollspy
  * ========================================================================
+ * Copyright 2024 Entreprise 7pro.ca Inc.
+ * Licensed under MIT (https://github.com/entreprise7pro/bootstrap/blob/v3-dev/LICENSE)
  * Copyright 2011-2019 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/v3-dev/LICENSE)
  * ======================================================================== */
@@ -2271,6 +2288,8 @@ if (typeof jQuery === 'undefined') {
  * Bootstrap: tab.js v3.4.3
  * https://bootstrap.7pro.ca/docs/3.4/javascript/#tabs
  * ========================================================================
+ * Copyright 2024 Entreprise 7pro.ca Inc.
+ * Licensed under MIT (https://github.com/entreprise7pro/bootstrap/blob/v3-dev/LICENSE)
  * Copyright 2011-2019 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/v3-dev/LICENSE)
  * ======================================================================== */
@@ -2427,6 +2446,8 @@ if (typeof jQuery === 'undefined') {
  * Bootstrap: affix.js v3.4.3
  * https://bootstrap.7pro.ca/docs/3.4/javascript/#affix
  * ========================================================================
+ * Copyright 2024 Entreprise 7pro.ca Inc.
+ * Licensed under MIT (https://github.com/entreprise7pro/bootstrap/blob/v3-dev/LICENSE)
  * Copyright 2011-2019 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/v3-dev/LICENSE)
  * ======================================================================== */

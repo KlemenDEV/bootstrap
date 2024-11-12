@@ -2,6 +2,8 @@
  * Bootstrap: tab.js v3.4.3
  * https://bootstrap.7pro.ca/docs/3.4/javascript/#tabs
  * ========================================================================
+ * Copyright 2024 Entreprise 7pro.ca Inc.
+ * Licensed under MIT (https://github.com/entreprise7pro/bootstrap/blob/v3-dev/LICENSE)
  * Copyright 2011-2019 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/v3-dev/LICENSE)
  * ======================================================================== */

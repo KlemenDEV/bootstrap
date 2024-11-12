@@ -1,6 +1,8 @@
 /*!
  * Bootstrap Grunt task for the CommonJS module generation
- * https://getbootstrap.com/
+ * https://bootstrap.7pro.ca/
+ * Copyright 2024 Entreprise 7pro.ca Inc.
+ * Licensed under MIT (https://github.com/entreprise7pro/bootstrap/blob/v3-dev/LICENSE)
  * Copyright 2014-2019 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/v3-dev/LICENSE)
  */

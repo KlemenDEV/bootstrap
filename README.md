@@ -6,7 +6,7 @@
 [![devDependency Status](https://img.shields.io/david/dev/entreprise7pro/bootstrap.svg)](https://david-dm.org/entreprise7pro/bootstrap#info=devDependencies)
 [![NuGet](https://img.shields.io/nuget/v/bootstrap.svg)](https://www.nuget.org/packages/Bootstrap)
 
-Bootstrap is a sleek, intuitive, and powerful front-end framework for faster and easier web development, created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thornton](https://twitter.com/fat), and maintained by the [core team](https://github.com/orgs/entreprise7pro/people) with the massive support and involvement of the community.
+Bootstrap is a sleek, intuitive, and powerful front-end framework for faster and easier web development, now maintained by Entreprise 7pro.ca Inc. and [Joseph Olstad](https://drupal.org/u/josepholstad) originally created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thornton](https://twitter.com/fat), and previously maintained by the [core team](https://github.com/orgs/entreprise7pro/people) with the massive support and involvement of the community.
 
 To get started, check out <https://bootstrap.7pro.ca/>!
 
@@ -69,7 +69,7 @@ We provide compiled CSS and JS (`bootstrap.*`), as well as compiled and minified
 
 Have a bug or a feature request? Please first read the [issue guidelines](https://github.com/entreprise7pro/bootstrap/blob/v3-dev/CONTRIBUTING.md#using-the-issue-tracker) and search for existing and closed issues. If your problem or idea is not addressed yet, [please open a new issue](https://github.com/entreprise7pro/bootstrap/issues/new).
 
-Note that **feature requests must target [Bootstrap v3](https://github.com/entreprise7pro/bootstrap/tree/v3-dev),** because Bootstrap v3 is now in maintenance mode and is closed off to new features. This is so that we can focus our efforts on Bootstrap v3.
+Note that **feature requests must target [Bootstrap v3](https://github.com/entreprise7pro/bootstrap/tree/v3-dev),**. We are focused on maintenance and compatibility of bootstrap 3 with modern dependencies like jQuery v4 and most browsers.
 
 
 ## Documentation
@@ -130,11 +130,14 @@ See [the Releases section of our GitHub project](https://github.com/entreprise7p
 
 Thanks to [BrowserStack](https://www.browserstack.com/) for providing the infrastructure that allows us to test in real browsers!
 
-## Current maintainer
+## Current Maintainers
 
-**Joseph Olstad**
+* <https://drupal.org/u/joseph.olstad>
+* <https://github.com/joejoseph00>
 
-* <https://drupal.org/u/josepholstad>
+## Website for entreprise7pro-bootstrap
+
+* <https://bootstrap.7pro.ca>
 
 ## Creators
 
@@ -148,12 +151,11 @@ Thanks to [BrowserStack](https://www.browserstack.com/) for providing the infras
 * <https://x.com/fat>
 * <https://github.com/fat>
 
-## Maintainers of entreprise7pro fork of bootstrap 3
-* <https://drupal.org/u/joseph.olstad>
-* <https://github.com/joejoseph00>
-* <https://bootstrap.7pro.ca>
 
 ## Copyright and license
 
-Entreprise 7pro.ca Inc 2024.  Code released under [the MIT license](https://github.com/entreprise7pro/bootstrap/blob/v3-dev/LICENSE). Docs released under [Creative Commons](https://github.com/entreprise7pro/bootstrap/blob/v3-dev/docs/LICENSE).
-Code and documentation copyright 2011-2019 Twitter, Inc. Code released under [the MIT license](https://github.com/entreprise7pro/bootstrap/blob/v3-dev/LICENSE). Docs released under [Creative Commons](https://github.com/entreprise7pro/bootstrap/blob/v3-dev/docs/LICENSE).
+Entreprise 7pro.ca Inc. copyright 2024.
+Currently released under [the MIT license](https://github.com/entreprise7pro/bootstrap/blob/v3-dev/LICENSE).
+Docs released under [Creative Commons](https://github.com/entreprise7pro/bootstrap/blob/v3-dev/docs/LICENSE).
+Code and documentation copyright 2011-2019 Twitter, Inc.
+Twitter Code previously released under [the MIT license](https://github.com/twbs/bootstrap/blob/v3-dev/LICENSE).

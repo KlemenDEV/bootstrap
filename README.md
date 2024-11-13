@@ -129,6 +129,8 @@ See [the Releases section of our GitHub project](https://github.com/entreprise7p
 * sudo apt install nodejs npm
 * sudo apt install node-grunt-cli
 * bundle exec grunt --force
+* npm run release
+* npm run release-zip
 
 ## Thanks
 

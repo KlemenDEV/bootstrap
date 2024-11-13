@@ -6,7 +6,10 @@
 [![devDependency Status](https://img.shields.io/david/dev/entreprise7pro/bootstrap.svg)](https://david-dm.org/entreprise7pro/bootstrap#info=devDependencies)
 [![NuGet](https://img.shields.io/nuget/v/bootstrap.svg)](https://www.nuget.org/packages/Bootstrap)
 
-Bootstrap is a sleek, intuitive, and powerful front-end framework for faster and easier web development, now maintained by Entreprise 7pro.ca Inc. and [Joseph Olstad](https://drupal.org/u/josepholstad) originally created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thornton](https://twitter.com/fat), and previously maintained by the [core team](https://github.com/orgs/entreprise7pro/people) with the massive support and involvement of the community.
+Bootstrap is a sleek, intuitive, and powerful front-end framework for faster and easier web development.
+Now maintained by [Joseph Olstad](https://drupal.org/u/josepholstad)
+Sponsored by Entreprise 7pro.ca Inc.  
+Originally created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thornton](https://twitter.com/fat), and previously maintained by the [core team](https://github.com/orgs/entreprise7pro/people) with the massive support and involvement of the community.
 
 To get started, check out <https://bootstrap.7pro.ca/>!
 

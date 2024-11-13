@@ -1,6 +1,6 @@
 # [Bootstrap](https://getbootstrap.com/)
 
-###Bower recognizes all github projects.
+### Bower recognizes all github projects.
 
 `bower install entreprise7pro/bootstrap --save`
 

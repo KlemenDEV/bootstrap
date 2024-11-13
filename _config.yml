@@ -40,8 +40,8 @@ themes:           https://themes.getbootstrap.com
 cdn:
   # See https://www.srihash.org for info on how to generate the hashes
   css:            https://cdn.jsdelivr.net/gh/entreprise7pro/bootstrap@v3.4.3/dist/css/bootstrap.min.css
-  css_hash:       "sha384-b6a156d707bdb74c2de7d9de7082854168702477879bc0de09049b2c54ec9863eb0d4ba6ffe095567d50dc51e72bb922"
+  css_hash:       "sha384-tqFW1we9t0wt59necIKFQWhwJHeHm8DeCQSbLFTsmGPrDUum/+CVVn1Q3FHnK7ki"
   css_theme:      https://cdn.jsdelivr.net/gh/entreprise7pro/bootstrap@v3.4.3/dist/css/bootstrap-theme.min.css
-  css_theme_hash: "sha384-81cf7fec3300565354f21a9e9bc80c442b0592402c48632668f949bcf3ffa21eec237e5edbe3f7f3d61ef63ab7fa21ef"
+  css_theme_hash: "sha384-gc9/7DMAVlNU8hqem8gMRCsFkkAsSGMmaPlJvPP/oh7sI35e2+P389Ye9jq3+iHv"
   js:             https://cdn.jsdelivr.net/gh/entreprise7pro/bootstrap@v3.4.3/dist/js/bootstrap.min.js
-  js_hash:        "sha384-a1d7e5741edb138a10ad230c433443855e1bf32b14bee03724095c348a64b93b06306793479faf91701dd04ac94e3692"
+  js_hash:        "sha384-odfldB7bE4oQrSMMQzRDhV4b8ysUvuA3JAlcNIpkuTsGMGeTR5+vkXAd0ErJTjaS"

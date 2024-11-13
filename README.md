@@ -140,8 +140,16 @@ Thanks to [BrowserStack](https://www.browserstack.com/) for providing the infras
 
 ## Current Maintainers
 
+**Stephen Mulvihill**
+
+* <https://drupal.org/u/smulvih2>
+* <https://github.com/smulvih2>
+
+**Joseph Olstad**
+
 * <https://drupal.org/u/joseph.olstad>
 * <https://github.com/joejoseph00>
+
 
 ## Website for entreprise7pro-bootstrap
 

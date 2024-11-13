@@ -1,6 +1,9 @@
 # [Bootstrap](https://getbootstrap.com/)
 
-![Bower version](https://img.shields.io/bower/v/entreprise7pro-bootstrap.svg)
+###Bower recognizes all github projects.
+
+`bower install entreprise7pro/bootstrap --save`
+
 [![npm version](https://img.shields.io/npm/v/entreprise7pro-bootstrap.svg)](https://www.npmjs.com/package/entreprise7pro-bootstrap)
 [![Build Status](https://img.shields.io/travis/entreprise7pro/bootstrap/v3-dev.svg)](https://travis-ci.org/entreprise7pro/bootstrap)
 [![devDependency Status](https://img.shields.io/david/dev/entreprise7pro/bootstrap.svg)](https://david-dm.org/entreprise7pro/bootstrap#info=devDependencies)

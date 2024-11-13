@@ -1,13 +1,16 @@
-# [Bootstrap](https://getbootstrap.com/)
+# [Bootstrap 3](https://bootstrap.7pro.ca/)
 
 ### Bower recognizes all github projects.
 
 `bower install entreprise7pro/bootstrap --save`
 
 [![npm version](https://img.shields.io/npm/v/entreprise7pro-bootstrap.svg)](https://www.npmjs.com/package/entreprise7pro-bootstrap)
-[![Build Status](https://img.shields.io/travis/entreprise7pro/bootstrap/v3-dev.svg)](https://travis-ci.org/entreprise7pro/bootstrap)
-[![devDependency Status](https://img.shields.io/david/dev/entreprise7pro/bootstrap.svg)](https://david-dm.org/entreprise7pro/bootstrap#info=devDependencies)
+
 [![NuGet](https://img.shields.io/nuget/v/entreprise7pro-bootstrap.svg)](https://www.nuget.org/packages/Entreprise7pro-Bootstrap)
+
+[![Build Status](https://img.shields.io/travis/entreprise7pro/bootstrap/v3-dev.svg)](https://travis-ci.org/entreprise7pro/bootstrap) TBD!
+
+[![devDependency Status](https://img.shields.io/david/dev/entreprise7pro/bootstrap.svg)](https://david-dm.org/entreprise7pro/bootstrap#info=devDependencies) TBD!
 
 Bootstrap is a sleek, intuitive, and powerful front-end framework for faster and easier web development.
 
@@ -107,7 +110,9 @@ Please read through our [contributing guidelines](https://github.com/entreprise7
 
 Moreover, if your pull request contains JavaScript patches or features, you must include [relevant unit tests](https://github.com/entreprise7pro/bootstrap/tree/v3-dev/js/tests). All HTML and CSS should conform to the [Code Guide](https://github.com/mdo/code-guide), maintained by [Mark Otto](https://github.com/mdo).
 
-**entreprise7pro fork of Bootstrap v3 published a new release which is compatible with jQuery 4.** Focusing our efforts on [Bootstrap v3](https://github.com/entreprise7pro/bootstrap/tree/v3-dev), the future of the entreprise7pro forked bootstrap release of the framework is here. Pull requests which add new features (rather than fix bugs) should target [Bootstrap v3 (the `v3-dev` git branch)](https://github.com/entreprise7pro/bootstrap/tree/v3-dev).
+**compatible with jQuery 4.** We are focusing our efforts on [Bootstrap v3](https://github.com/entreprise7pro/bootstrap/tree/v3-dev), the future of the entreprise7pro forked bootstrap release of the framework is here.
+
+Pull requests which add new features (rather than fix bugs) should target [Bootstrap v3 (the `v3-dev` git branch)](https://github.com/entreprise7pro/bootstrap/tree/v3-dev).
 
 Editor preferences are available in the [editor config](https://github.com/entreprise7pro/bootstrap/blob/v3-dev/.editorconfig) for easy use in common text editors. Read more and download plugins at <https://editorconfig.org/>.
 
@@ -117,7 +122,7 @@ Editor preferences are available in the [editor config](https://github.com/entre
 Get updates on Bootstrap's development and chat with the project maintainers and community members.
 
 ootstrap` channel.
-* Implementation help may be found at Stack Overflow (tagged [`twitter-bootstrap-3`](https://stackoverflow.com/questions/tagged/twitter-bootstrap-3)).
+* Implementation help may be found at Stack Overflow (tagged [`entreprise7pro-bootstrap`](https://stackoverflow.com/questions/tagged/entreprise7pro-bootstrap)).
 * Developers should use the keyword `bootstrap` and or `entreprise7pro` on packages which modify or add to the functionality of Bootstrap when distributing through [npm](https://www.npmjs.com/search?q=keywords:bootstrap) or similar delivery mechanisms for maximum discoverability.
 
 

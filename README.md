@@ -1,10 +1,10 @@
 # [Bootstrap](https://getbootstrap.com/)
 
-![Bower version](https://img.shields.io/bower/v/bootstrap.svg)
-[![npm version](https://img.shields.io/npm/v/bootstrap.svg)](https://www.npmjs.com/package/bootstrap)
+![Bower version](https://img.shields.io/bower/v/entreprise7pro-bootstrap.svg)
+[![npm version](https://img.shields.io/npm/v/entreprise7pro-bootstrap.svg)](https://www.npmjs.com/package/entreprise7pro-bootstrap)
 [![Build Status](https://img.shields.io/travis/entreprise7pro/bootstrap/v3-dev.svg)](https://travis-ci.org/entreprise7pro/bootstrap)
 [![devDependency Status](https://img.shields.io/david/dev/entreprise7pro/bootstrap.svg)](https://david-dm.org/entreprise7pro/bootstrap#info=devDependencies)
-[![NuGet](https://img.shields.io/nuget/v/bootstrap.svg)](https://www.nuget.org/packages/Bootstrap)
+[![NuGet](https://img.shields.io/nuget/v/entreprise7pro-bootstrap.svg)](https://www.nuget.org/packages/Entreprise7pro-Bootstrap)
 
 Bootstrap is a sleek, intuitive, and powerful front-end framework for faster and easier web development.
 

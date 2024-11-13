@@ -34,7 +34,9 @@
     "url": "https://github.com/entreprise7pro/bootstrap/issues"
   },
   "license": "MIT",
-  "dependencies": {},
+  "dependencies": {
+    "jquery": "^4.0.0-beta.2"
+  },
   "devDependencies": {
     "autoprefixer": "10.4.20",
     "btoa": "^1.2.1",

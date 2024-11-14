@@ -2,7 +2,13 @@
 
 ### Bower recognizes all github projects.
 
-`bower install entreprise7pro/bootstrap --save`
+- `bower install entreprise7pro/bootstrap --save`
+
+### Composer instructions
+
+- `composer require entreprise7pro/bootstrap`
+- https://packagist.org/packages/entreprise7pro/bootstrap
+- https://packagist.org/packages/entreprise7pro/bootstrap-sass (optional)
 
 [![npm version](https://img.shields.io/npm/v/entreprise7pro-bootstrap.svg)](https://www.npmjs.com/package/entreprise7pro-bootstrap)
 

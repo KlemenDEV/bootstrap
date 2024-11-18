@@ -1,6 +1,7 @@
 /*!
- * Bootstrap Customizer (https://getbootstrap.com/customize/)
- * Copyright 2011-2019 Twitter, Inc.
+ * Bootstrap Customizer (https://bootstrap.7pro.ca/customize/)
+ * Copyright 2024 Entreprise 7pro.ca Inc.
+ * Previous versions are Copyright 2011-2019 Twitter, Inc.
  *
  * Licensed under the Creative Commons Attribution 3.0 Unported License. For
  * details, see https://creativecommons.org/licenses/by/3.0/.
@@ -12,8 +13,8 @@ window.onload = function () { // wait for load in a dumb way because B-0
   'use strict';
 
   var cw = '/*!\n' +
-           ' * Bootstrap v3.4.1 (https://getbootstrap.com/)\n' +
-           ' * Copyright 2011-' + new Date().getFullYear() + ' Twitter, Inc.\n' +
+           ' * Bootstrap v3.4.4 (https://bootstrap.7pro.ca/)\n' +
+           ' * Copyright 2011-' + new Date().getFullYear() + ' Since 2024 Entreprise 7pro.ca Inc, previously Twitter, Inc.\n' +
            ' * Licensed under the MIT license\n' +
            ' */\n\n'
 

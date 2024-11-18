@@ -31,7 +31,7 @@
     transformData: function (hits) {
       return hits.map(function (hit) {
         var currentUrl = getOrigin()
-        var liveUrl = 'https://getbootstrap.com'
+        var liveUrl = 'https://bootstrap.7pro.ca'
 
         // When in production, return the result as is,
         // otherwise remove our url from it.

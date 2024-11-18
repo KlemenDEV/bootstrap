@@ -10,10 +10,12 @@ layout: home
     <h3>CDNs for bootstrap v{{ site.current_version }} includes jQuery 4 support you can use these cdns now.</h3>
     <p class="normal">
   <br><code>First, make a js script that loads just after jQuery 4 and make sure to add this jQuery = $;</code>
-  <br><code>https://cdn.jsdelivr.net/gh/entreprise7pro/bootstrap@v{{ site.current_version }}/dist/css/bootstrap.min.css</code>
-  <br><code>https://cdn.jsdelivr.net/gh/entreprise7pro/bootstrap@v{{ site.current_version }}/dist/css/bootstrap-theme.min.css</code>
-  <br><code>https://cdn.jsdelivr.net/gh/entreprise7pro/bootstrap@v{{ site.current_version }}/dist/js/bootstrap.min.js</code>
+  <br><code>https://cdn.jsdelivr.net/npm/entreprise7pro-bootstrap@v{{ site.current_version }}/dist/css/bootstrap.min.css</code>
+  <br><code>https://cdn.jsdelivr.net/npm/entreprise7pro-bootstrap@v{{ site.current_version }}/dist/css/bootstrap-theme.min.css</code>
+  <br><code>https://cdn.jsdelivr.net/npm/entreprise7pro-bootstrap@v{{ site.current_version }}/dist/js/bootstrap.min.js</code>
   <br><code>for bootstrap-sass: composer require entreprise7pro/bootstrap-sass</code>
+  <br><code>for bootstrap-sass: bower install entreprise7pro/bootstrap-sass --save</code>
+  <br><code>for bootstrap-sass: gem 'entreprise7pro-bootstrap-sass', '~> 3.4.7'</code>
     </p>
     <p class="lead">
       <a href="{{ site.baseurl }}/getting-started/#download" class="btn btn-outline-inverse btn-lg" onclick="ga('send', 'event', 'Jumbotron actions', 'Download', 'Download {{ site.current_version }}');">Download Bootstrap</a>

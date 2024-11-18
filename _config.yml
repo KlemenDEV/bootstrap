@@ -39,9 +39,9 @@ themes:           https://themes.getbootstrap.com
 
 cdn:
   # See https://www.srihash.org for info on how to generate the hashes
-  css:            https://cdn.jsdelivr.net/gh/entreprise7pro/bootstrap@v3.4.4/dist/css/bootstrap.min.css
+  css:            https://cdn.jsdelivr.net/npm/entreprise7pro-bootstrap@3.4.4/dist/css/bootstrap.min.css
   css_hash:       "sha384-tqFW1we9t0wt59necIKFQWhwJHeHm8DeCQSbLFTsmGPrDUum/+CVVn1Q3FHnK7ki"
-  css_theme:      https://cdn.jsdelivr.net/gh/entreprise7pro/bootstrap@v3.4.4/dist/css/bootstrap-theme.min.css
+  css_theme:      https://cdn.jsdelivr.net/npm/entreprise7pro-bootstrap@3.4.4/dist/css/bootstrap-theme.min.css
   css_theme_hash: "sha384-gc9/7DMAVlNU8hqem8gMRCsFkkAsSGMmaPlJvPP/oh7sI35e2+P389Ye9jq3+iHv"
-  js:             https://cdn.jsdelivr.net/gh/entreprise7pro/bootstrap@v3.4.4/dist/js/bootstrap.min.js
+  js:             https://cdn.jsdelivr.net/npm/entreprise7pro-bootstrap@3.4.4/dist/js/bootstrap.min.js
   js_hash:        "sha384-odfldB7bE4oQrSMMQzRDhV4b8ysUvuA3JAlcNIpkuTsGMGeTR5+vkXAd0ErJTjaS"
